@@ -1,4 +1,4 @@
-module github.com/BenjaminArmijo3/sso/protos
+module github.com/BenjaminArmijo3/sso-protos
 
 go 1.22.0
 
